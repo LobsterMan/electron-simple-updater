@@ -1,3 +1,5 @@
+~test
+
 ![logo](https://raw.githubusercontent.com/megahertz/electron-simple-updater/master/logo.png)
 # electron-simple-updater
 [![Build Status](https://travis-ci.org/megahertz/electron-simple-updater.svg?branch=master)](https://travis-ci.org/megahertz/electron-simple-updater)
